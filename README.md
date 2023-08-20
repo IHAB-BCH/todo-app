@@ -1,6 +1,6 @@
 # Welcome 👋
 
-##this is a simple todo app with React⚛️
+## this is a simple todo app with React⚛️
 
 ![Screenshot](./src/resources/screenshot.png)
 
